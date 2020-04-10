@@ -15,7 +15,7 @@
         function _construct() {
             $this->serverName = 'localhost';
             $this->userName = 'mimbl';
-            $this->passCode = 'jq}xc@;^S`FDnCJf),Fym6!f<}.@NwP/';
+            $this->passCode = 'password';
             $this->dbName = 'mimbl';
         }
     }
